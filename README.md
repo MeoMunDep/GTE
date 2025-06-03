@@ -22,3 +22,15 @@ https://app.noise.xyz/pages/discover
 https://app.valhalla.exchange/trade/BTC
 
 https://delegate.xyz/
+
+https://bebop.xyz/trade?network=megaeth&
+
+https://bronto.finance/lock
+
+https://chainbills.xyz/start
+
+https://www.curve.finance/dex/megaeth/pools/
+
+https://appv2.fufuture.io/u/trade
+
+https://app.gasyard.fi/?env=testnet
