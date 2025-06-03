@@ -1,44 +1,34 @@
----
-Network Name	            MEGA Testnet
-Chain ID	                6342
-Network ID	                6342
-Native Token (Symbol)	    MEGA Testnet Ether (ETH)
-Native Token Decimals	    18
-RPC HTTP URL	            https://carrot.megaeth.com/rpc
----
+### MEGA Testnet Network Details
 
-https://cap.app/mint
+| Property                | Value                             |
+|-------------------------|-----------------------------------|
+| **Network Name**        | MEGA Testnet                      |
+| **Chain ID**            | 6342                              |
+| **Network ID**          | 6342                              |
+| **Native Token**        | MEGA Testnet Ether (ETH)          |
+| **Token Decimals**      | 18                                |
+| **RPC HTTP URL**        | https://carrot.megaeth.com/rpc    |
 
-https://testnet.megaeth.com/#2
 
-https://game.megaeth.com/crossy-fluffle
+### Useful Links on MegaETH Testnet
 
-https://www.gte.xyz/
-
-https://testnet.teko.finance/mint
-
-https://app.noise.xyz/pages/discover
-
-https://app.valhalla.exchange/trade/BTC
-
-https://delegate.xyz/
-
-https://bebop.xyz/trade?network=megaeth&
-
-https://bronto.finance/lock
-
-https://chainbills.xyz/start
-
-https://www.curve.finance/dex/megaeth/pools/
-
-https://appv2.fufuture.io/u/trade
-
-https://app.gasyard.fi/?env=testnet
-
-https://testnet.xlmeme.com/create-memecoin
-
-https://testnet.rarible.fun/
-
-https://testnet.rubic.exchange/?
-
-https://hashpin.org/
+| Description                             | Link                                                       |
+|-----------------------------------------|------------------------------------------------------------|
+| CAP Mint                                | [cap.app/mint](https://cap.app/mint)                      |
+| MEGA Testnet Faucet                     | [testnet.megaeth.com](https://testnet.megaeth.com/#2)     |
+| Crossy Fluffle Game                     | [game.megaeth.com](https://game.megaeth.com/crossy-fluffle) |
+| GTE.xyz                                 | [gte.xyz](https://www.gte.xyz/)                           |
+| Teko Finance Mint                       | [teko.finance/mint](https://testnet.teko.finance/mint)    |
+| Noise Discover Page                     | [noise.xyz](https://app.noise.xyz/pages/discover)         |
+| Valhalla Exchange                       | [valhalla.exchange](https://app.valhalla.exchange/trade/BTC) |
+| Delegate.xyz                            | [delegate.xyz](https://delegate.xyz/)                     |
+| Bebop Trade (MegaETH)                   | [bebop.xyz](https://bebop.xyz/trade?network=megaeth&)     |
+| Bronto Finance Lock                     | [bronto.finance](https://bronto.finance/lock)             |
+| ChainBills Start                        | [chainbills.xyz](https://chainbills.xyz/start)            |
+| Curve DEX on MegaETH                    | [curve.finance](https://www.curve.finance/dex/megaeth/pools/) |
+| FuFuture v2 Trade                       | [fufuture.io](https://appv2.fufuture.io/u/trade)          |
+| Gasyard (Testnet)                       | [gasyard.fi](https://app.gasyard.fi/?env=testnet)         |
+| XLMeme Create Memecoin                  | [xlmeme.com](https://testnet.xlmeme.com/create-memecoin)  |
+| Rarible (Testnet)                       | [rarible.fun](https://testnet.rarible.fun/)               |
+| Rubic Exchange (Testnet)                | [rubic.exchange](https://testnet.rubic.exchange/?)        |
+| Hashpin                                 | [hashpin.org](https://hashpin.org/)                       |
