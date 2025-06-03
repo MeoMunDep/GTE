@@ -34,3 +34,11 @@ https://www.curve.finance/dex/megaeth/pools/
 https://appv2.fufuture.io/u/trade
 
 https://app.gasyard.fi/?env=testnet
+
+https://testnet.xlmeme.com/create-memecoin
+
+https://testnet.rarible.fun/
+
+https://testnet.rubic.exchange/?
+
+https://hashpin.org/
